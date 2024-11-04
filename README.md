@@ -1,5 +1,6 @@
 # SqlQueryStress
 SQL query stress simulator [created by Adam Machanic](https://dataeducation.com/sqlquerystress-the-source-code/).
+Forked [SQLQueryStress](https://github.com/ErikEJ/SqlQueryStress)
 
 ## Getting started guide
 
